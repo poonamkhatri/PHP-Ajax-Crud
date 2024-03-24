@@ -21,7 +21,7 @@ To get started with this PHP Ajax CRUD demo, follow these steps:
 1. Clone or download the repository to your local machine.
 2. Set up a local server environment with PHP and MySQL support.
 3. Import the included SQL file to create the necessary database and table structure.
-4. Update the database connection settings in the PHP files (config.php, functions.php) with your credentials.
+4. Update the database connection settings in the PHP files (db_config.php) with your credentials.
 5. Access the application through your web browser to start testing CRUD operations.
 
 Feel free to explore and modify the code to suit your project requirements. Contributions and feedback are welcome!
