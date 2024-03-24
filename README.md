@@ -3,8 +3,8 @@
 
  ## Features
 
- *  # Create: Add new records to the database using a user-friendly interface.
-  * # Read: Display existing records in a tabular format for easy viewing and navigation.
-  * # Update: Modify and update existing records directly from the interface.
-  * # Delete: Remove unwanted records with a confirmation prompt to avoid accidental deletions.
+ *  ## Create: Add new records to the database using a user-friendly interface.
+  * ## Read: Display existing records in a tabular format for easy viewing and navigation.
+  * ## Update: Modify and update existing records directly from the interface.
+  * ## Delete: Remove unwanted records with a confirmation prompt to avoid accidental deletions.
 
